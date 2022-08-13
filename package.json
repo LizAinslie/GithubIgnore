@@ -1,0 +1,9 @@
+{
+  "name": "github-ignore",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:LizAinslie/GithubIgnore.git",
+  "author": "Liz Ainslie <lizainslie16@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
